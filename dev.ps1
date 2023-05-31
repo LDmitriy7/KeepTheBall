@@ -1,0 +1,1 @@
+explorer "http://localhost:3535/"; python -m http.server 3535
